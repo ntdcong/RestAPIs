@@ -1,0 +1,47 @@
+{
+	"posts" : [
+		{
+		"id" : 1,
+		"title": "My Note 01",
+		"body": "Note này để làm gì 1"
+		},
+		{
+		"id" : 2,
+		"title": "My Note 02",
+		"body": "Note này để làm gì 2",
+		"base64Image": ""
+		},
+		{
+		"id" : 3,
+		"title": "My Note 03",
+		"body": "Note này để làm gì 3",
+		"base64Image": ""
+		},
+		{
+		"id" : 4,
+		"title": "My Note 04",
+		"body": "Note này để làm gì 4",
+		"base64Image": ""
+		},
+		{
+		"id" : 5,
+		"title": "My Note 05",
+		"body": "Note này để làm gì 5",
+		"base64Image": ""
+		}
+	],
+	
+	"users": [
+		{
+		"username": "Công",
+		"password": "iunsw24",
+		"firstname": "Nguyễn"
+		},
+		{
+		"username": "Duy",
+		"password": "aawer62",
+		"firstname": "Nguyễn"
+		}
+	]
+	
+}
